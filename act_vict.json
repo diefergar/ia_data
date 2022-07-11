@@ -1,0 +1,50 @@
+[
+  {
+    "mes": "Abril",
+    "casos": 4
+  },
+  {
+    "mes": "Mayo",
+    "casos": 7
+  },
+  {
+    "mes": "Junio",
+    "casos": 9
+  },
+  {
+    "mes": "Julio",
+    "casos": 6
+  },
+  {
+    "mes": "Agosto",
+    "casos": 2
+  },
+  {
+    "mes": "Septiembre",
+    "casos": 2
+  },
+  {
+    "mes": "Octubre",
+    "casos": 2
+  },
+  {
+    "mes": "Noviembre",
+    "casos": 1
+  },
+  {
+    "mes": "Diciembre",
+    "casos": 6
+  },
+  {
+    "mes": "Enero",
+    "casos": 2
+  },
+  {
+    "mes": "Febrero",
+    "casos": 2
+  },
+  {
+    "mes": "Marzo",
+    "casos": 4
+  }
+]
